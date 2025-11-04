@@ -1,0 +1,230 @@
+{
+  "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+  "transcripts": [
+    {
+      "id": 1,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD5iVRxuBteTpBrDZHkS",
+      "speaker": "patient",
+      "transcript": "Yes",
+      "timestamp": "2025-11-04 15:18:31",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 2,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD5juKX7jmgfbogX9DZD",
+      "speaker": "patient",
+      "transcript": "What agents do you have?",
+      "timestamp": "2025-11-04 15:18:33",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 3,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD69JSHT9LDLEAh6SpwD",
+      "speaker": "patient",
+      "transcript": "Can you",
+      "timestamp": "2025-11-04 15:18:58",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 4,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6AaaXBwIN3ommAmkMM",
+      "speaker": "patient",
+      "transcript": "Book an appointment with Dr. Miller.",
+      "timestamp": "2025-11-04 15:19:00",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 5,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6PFTtUXQAArmx8rlXd",
+      "speaker": "patient",
+      "transcript": "Sure, my name is John.",
+      "timestamp": "2025-11-04 15:19:17",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 6,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6SS9qBnEd9wA5VgDmb",
+      "speaker": "patient",
+      "transcript": "My phone number is 447.",
+      "timestamp": "2025-11-04 15:19:19",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 7,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6UKE0Lyu3IKdt8k3OO",
+      "speaker": "patient",
+      "transcript": "524",
+      "timestamp": "2025-11-04 15:19:20",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 8,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6VR6sxacaIYFeEmcHF",
+      "speaker": "patient",
+      "transcript": "9/3",
+      "timestamp": "2025-11-04 15:19:21",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 9,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6Xa7WWYTjb0OFoq9tD",
+      "speaker": "patient",
+      "transcript": "And I would like to have appointment at tomorrow eleven o'clock in the morning.",
+      "timestamp": "2025-11-04 15:19:25",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 10,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6jmsaAAAvLviRMOK27",
+      "speaker": "patient",
+      "transcript": "Dental check-up.",
+      "timestamp": "2025-11-04 15:19:34",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 11,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6udZ62uJ153KgTaAtx",
+      "speaker": "patient",
+      "transcript": "Sure, my full phone number is 447",
+      "timestamp": "2025-11-04 15:19:48",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 12,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6xrtI9iTFFhd4Mdzv2",
+      "speaker": "patient",
+      "transcript": "576",
+      "timestamp": "2025-11-04 15:19:49",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 13,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6zNjnXSoT5RTItFYuX",
+      "speaker": "patient",
+      "transcript": "521",
+      "timestamp": "2025-11-04 15:19:51",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 14,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD6ySkm1mmgCna7caRcB",
+      "speaker": "patient",
+      "transcript": "972.",
+      "timestamp": "2025-11-04 15:19:57",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 15,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD7QKQV0QMmxXlUrzXuc",
+      "speaker": "patient",
+      "transcript": "Um",
+      "timestamp": "2025-11-04 15:20:17",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 16,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD7RoiRhln0ovaGOmPd3",
+      "speaker": "patient",
+      "transcript": "Can I speak with dentist now?",
+      "timestamp": "2025-11-04 15:20:19",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 17,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD7er9L6LQ4XDtK7VAYN",
+      "speaker": "patient",
+      "transcript": "Hello",
+      "timestamp": "2025-11-04 15:20:32",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 18,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD7oIqpRHDDlhdP0wfzP",
+      "speaker": "patient",
+      "transcript": "\u00bfSe habla espa\u00f1ol?",
+      "timestamp": "2025-11-04 15:20:42",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 19,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD7yezrseP5X2zTynhFv",
+      "speaker": "patient",
+      "transcript": "E",
+      "timestamp": "2025-11-04 15:20:51",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 20,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD7zlIST33DcHoRyn9xI",
+      "speaker": "patient",
+      "transcript": "\u0645\u0645\u0643\u0646 \u0647\u0644 \u062a\u063a\u064a\u0631 \u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629?",
+      "timestamp": "2025-11-04 15:20:55",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 21,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD89s8F4t0woQzCwp0Cg",
+      "speaker": "patient",
+      "transcript": "Can you speak to me in English?",
+      "timestamp": "2025-11-04 15:21:03",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 22,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD8HwOG4SX836LQW5vdd",
+      "speaker": "patient",
+      "transcript": "I have a pain in my left molar. What can I do?",
+      "timestamp": "2025-11-04 15:21:12",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 23,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD8aEjgnTKGwFAWmF67O",
+      "speaker": "patient",
+      "transcript": "Alright",
+      "timestamp": "2025-11-04 15:21:29",
+      "agent_name": "receptionist"
+    },
+    {
+      "id": 24,
+      "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+      "item_id": "item_CYD8a41Cs8CvHCaMlmzFf",
+      "speaker": "patient",
+      "transcript": "All right, I think I will meet you tomorrow. Thank you.",
+      "timestamp": "2025-11-04 15:21:31",
+      "agent_name": "receptionist"
+    }
+  ],
+  "summary": {
+    "id": 1,
+    "call_id": "rtc_035c5d4d25054bb2834fa4529fa77d96",
+    "summary": "1. Patient Information: John, Phone number: 447-576-521-972\n2. Reason for Call: To book a dental check-up appointment with Dr. Miller and discuss pain in left molar.\n3. Key Discussion Points: John requested an appointment with Dr. Miller for a dental check-up. He also mentioned experiencing pain in his left molar. He asked if he could speak with the dentist immediately.\n4. Action Items/Outcome: An appointment was presumably scheduled for John with Dr. Miller at 11 o'clock the following morning. No immediate solution was provided for the molar pain.\n5. Follow-up Required: John will meet with Dr. Miller for his dental check-up and to address his molar pain.",
+    "full_transcript": "PATIENT: Yes\nPATIENT: What agents do you have?\nPATIENT: Can you\nPATIENT: Book an appointment with Dr. Miller.\nPATIENT: Sure, my name is John.\nPATIENT: My phone number is 447.\nPATIENT: 524\nPATIENT: 9/3\nPATIENT: And I would like to have appointment at tomorrow eleven o'clock in the morning.\nPATIENT: Dental check-up.\nPATIENT: Sure, my full phone number is 447\nPATIENT: 576\nPATIENT: 521\nPATIENT: 972.\nPATIENT: Um\nPATIENT: Can I speak with dentist now?\nPATIENT: Hello\nPATIENT: \u00bfSe habla espa\u00f1ol?\nPATIENT: E\nPATIENT: \u0645\u0645\u0643\u0646 \u0647\u0644 \u062a\u063a\u064a\u0631 \u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629?\nPATIENT: Can you speak to me in English?\nPATIENT: I have a pain in my left molar. What can I do?\nPATIENT: Alright\nPATIENT: All right, I think I will meet you tomorrow. Thank you.",
+    "agent_name": "receptionist",
+    "created_at": "2025-11-04 15:21:50"
+  },
+  "exported_at": "2025-11-04T15:29:22.129709"
+}
