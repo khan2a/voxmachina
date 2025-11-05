@@ -5,7 +5,17 @@
 Turn any phone number into an intelligent voice assistant that can have natural conversations, schedule appointments, and transfer calls between specialists.
 
 ---
+### 🎥 Watch It In Action
 
+See VoxMachina handling real calls with natural conversations, agent transfers, and appointment scheduling:
+
+
+
+https://github.com/user-attachments/assets/e14aeee0-7631-4f5a-abf1-65851aa43978
+
+
+
+---
 ## 🎯 What is This?
 
 **VoxMachina** = Phone System + OpenAI GPT-4 Voice
@@ -21,11 +31,6 @@ Meet our AI team:
 - 🦷 **Dr. Miller** (Dentist) - Dental health advice
 - 🥗 **William** (Nutritionist) - Diet and nutrition guidance
 
-### 🎥 Watch It In Action
-
-See VoxMachina handling real calls with natural conversations, agent transfers, and appointment scheduling:
-
-**[📺 Watch Demo Video](https://github.com/khan2a/voxmachina/raw/main/docs/demo.mp4)** - Complete call flow demonstration (click to view)
 
 ---
 
