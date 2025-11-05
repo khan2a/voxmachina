@@ -21,6 +21,12 @@ Meet our AI team:
 - 🦷 **Dr. Miller** (Dentist) - Dental health advice
 - 🥗 **William** (Nutritionist) - Diet and nutrition guidance
 
+### 🎥 Watch It In Action
+
+See VoxMachina handling real calls with natural conversations, agent transfers, and appointment scheduling:
+
+**[📺 Video Demo](docs/demo.mp4)** - Watch a complete call flow demonstration
+
 ---
 
 ## 🏗️ How It Works
