@@ -25,8 +25,7 @@ Meet our AI team:
 
 See VoxMachina handling real calls with natural conversations, agent transfers, and appointment scheduling:
 
-**📺 Video Demo:** - Watch a complete call flow demonstration
-<video src="https://github.com/khan2a/voxmachina/blob/main/docs/demo.mp4" controls width="600"></video>
+**[📺 Watch Demo Video](https://github.com/khan2a/voxmachina/raw/main/docs/demo.mp4)** - Complete call flow demonstration (click to view)
 
 ---
 
